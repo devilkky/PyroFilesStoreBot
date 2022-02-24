@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @devil_kky
 
-👥 **Support Group:** [Linux Repositories](https://t.me/theimdbshow_supportgroup)
+👥 **Support Group:** [TheIMdbshow_supportgroup](https://t.me/theimdbshow_supportgroup)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/theIMDbshow)
+📢 **Updates Channel:** [The IMDb Show](https://t.me/theIMDbshow)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @devil_kky
@@ -43,7 +43,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](kamalkantyadav448-1@oksbi) (Googlepay)
+[Donate Now](kamalkantyadav448-1@oksbi) (Gpay - kamalkantyadav448-1@oksbi))
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
